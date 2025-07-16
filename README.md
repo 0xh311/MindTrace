@@ -51,7 +51,7 @@ MindTrace is a simple journaling app with a little AI twist.
 ## Future plans
 
 * Add mood/emotion detection.
-* Support for Arabic and other languages.
+* Support for other languages.
 * Make the AI remember past conversations.
 * Build a simple graphical interface.
 
