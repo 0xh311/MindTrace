@@ -1,4 +1,3 @@
-Absolutely! Here’s the full, clean, developer-style README.md you can use:
 
 ````markdown
 # MindTrace
